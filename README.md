@@ -5,9 +5,14 @@
 # 💫 About Me
 
 Hey, I'm **John** — junior software engineer working across web and mobile.  
-I build stuff that feels good to use and makes sense under the hood.
+I build stuff that feels good to use and makes sense under the hood. 
 
-🚗 A two-sided transport booking app built for drivers and clients<br></li><br><li>🧾 A client profile tool packed with real-time data, activity tracking, and messaging<br></li></ul><br>🛠 I use Isar and Firebase for local and cloud data handling, and integrate real-time features like background geolocation and calendar systems.<br><br>I care about clean UI, responsive UX, and practical architecture. Always learning, building, and iterating.
+### 🔧 Recent Projects  
+- 📝 A smart daily organizer with secure notes, tasks, and calendar logic  
+- 🚗 A driver–client transport app with live updates, requests, and booking flow  
+- 🧾 A client profile tool packed with real-time data, activity tracking, and messaging  
+
+I keep things modular, reactive, and testable — always learning, always shipping.  
 
 ## 🌐 Socials:
 
