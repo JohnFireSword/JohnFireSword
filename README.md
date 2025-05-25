@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 I'm John, a junior software engineer focused on web and mobile development.<br>💻 I work mainly with Flutter, Angular.<br>📱 My recent projects include:<br><br><ul><li>A smart daily organizer app with secure note and task management<br></li><br><li>A two-sided transport booking app built for drivers and clients<br></li><br><li>A detailed information app about clients with lots of interactions<br></li></ul><br>🛠 I use Isar and Firebase for local and cloud data handling, and integrate real-time features like background geolocation and calendar systems.<br><br>I care about clean UI, responsive UX, and practical architecture. Always learning, building, and iterating.
+👋 I'm John, a junior software engineer focused on web and mobile development.<br>💻 I work mainly with Flutter, Angular.<br>📱 My recent projects include:<br><br><ul><li>📝 A smart daily organizer app with secure note and task management<br></li><br><li>
+
+🚗 A two-sided transport booking app built for drivers and clients<br></li><br><li>🧾 A client profile tool packed with real-time data, activity tracking, and messaging<br></li></ul><br>🛠 I use Isar and Firebase for local and cloud data handling, and integrate real-time features like background geolocation and calendar systems.<br><br>I care about clean UI, responsive UX, and practical architecture. Always learning, building, and iterating.
 
 
 ## 🌐 Socials:
@@ -21,5 +23,5 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnFireSword/JohnFireSword/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnFireSword/JohnFireSword/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/JohnFireSword/JohnFireSword/output/github-snake.svg" />
-  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnFireSword&theme=github-compact)
+ 
 </picture>
