@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm John, a junior software engineer focused on web and mobile development.<br>💻 I work mainly with Flutter, Angular.<br>📱 My recent projects include:<br><br><ul><li>📝 A smart daily organizer app with secure note and task management<br></li><br><li>
+👋 I'm John, a junior software engineer focused on web and mobile development.<br>💻 I work mainly with Flutter for mobile development and Angular or React for website development.<br>📱 My recent projects include:<br><br><ul><li>📝 A smart daily organizer app with secure note and task management<br></li><br><li>
 
 🚗 A two-sided transport booking app built for drivers and clients<br></li><br><li>🧾 A client profile tool packed with real-time data, activity tracking, and messaging<br></li></ul><br>🛠 I use Isar and Firebase for local and cloud data handling, and integrate real-time features like background geolocation and calendar systems.<br><br>I care about clean UI, responsive UX, and practical architecture. Always learning, building, and iterating.
 
