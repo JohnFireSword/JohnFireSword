@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JohnFireSword/JohnFireSword/assets/banner.png" alt="John Giotis – Software Engineer" style="width:100%; max-width:900px;" />
+  <img src="images/profile-banner-gt.png" alt="John Giotis – Software Engineer" style="width:100%; max-width:900px;" />
 </p>
 
 # 💫 About Me
