@@ -14,7 +14,7 @@ I build stuff that feels good to use and makes sense under the hood.
 - 🧾 A client profile tool packed with real-time data, activity tracking, and messaging
 
 I keep things modular, reactive, and testable — always learning, always shipping.
-Check my own personal <a href='giannisgiotis.com' target=_blank>website!</a>
+Check my own personal <a href="giannisgiotis.com">website!</a>
 
 ## 🌐 Socials:
 
